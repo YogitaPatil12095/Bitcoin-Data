@@ -206,8 +206,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/bitcoin-data-mining](https://github.com/yourusername/bitcoin-data-mining)
-- **Issues**: [https://github.com/yourusername/bitcoin-data-mining/issues](https://github.com/yourusername/bitcoin-data-mining/issues)
+- **Project Link**:((https://github.com/YogitaPatil12095/Bitcoin-Data))
+- **Issues**:https://github.com/YogitaPatil12095/Bitcoin-Data
 
 ---
 
