@@ -59,8 +59,8 @@ bitcoin-data-mining/
 ### Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bitcoin-data-mining.git
-   cd bitcoin-data-mining
+   git clone https://github.com/YogitaPatil12095/Bitcoin-Data.git
+   cd Bitcoin-Data
    ```
 
 2. **Install dependencies**
